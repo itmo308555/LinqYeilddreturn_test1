@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "linqYeildReturn": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

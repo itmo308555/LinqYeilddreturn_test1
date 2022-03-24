@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A/HloBi+V665M57DpA3gHG2qUCOxNre45qDAhxXACEQo9Bf0QH9XYcThnOEDTgcq60r2rK91D5o8QsDsZLSlTw==",
+  "success": true,
+  "projectFilePath": "D:\\ThacSy\\Do An\\code-do-an\\Code_LINQ\\linqYeildReturn\\linqYeildReturn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

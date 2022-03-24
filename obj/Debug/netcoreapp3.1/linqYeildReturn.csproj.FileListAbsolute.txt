@@ -1,0 +1,13 @@
+D:\ThacSy\Do An\code-do-an\Code_LINQ\linqYeildReturn\bin\Debug\netcoreapp3.1\linqYeildReturn.exe
+D:\ThacSy\Do An\code-do-an\Code_LINQ\linqYeildReturn\obj\Debug\netcoreapp3.1\linqYeildReturn.csprojAssemblyReference.cache
+D:\ThacSy\Do An\code-do-an\Code_LINQ\linqYeildReturn\obj\Debug\netcoreapp3.1\linqYeildReturn.AssemblyInfoInputs.cache
+D:\ThacSy\Do An\code-do-an\Code_LINQ\linqYeildReturn\obj\Debug\netcoreapp3.1\linqYeildReturn.AssemblyInfo.cs
+D:\ThacSy\Do An\code-do-an\Code_LINQ\linqYeildReturn\bin\Debug\netcoreapp3.1\linqYeildReturn.deps.json
+D:\ThacSy\Do An\code-do-an\Code_LINQ\linqYeildReturn\bin\Debug\netcoreapp3.1\linqYeildReturn.runtimeconfig.json
+D:\ThacSy\Do An\code-do-an\Code_LINQ\linqYeildReturn\bin\Debug\netcoreapp3.1\linqYeildReturn.runtimeconfig.dev.json
+D:\ThacSy\Do An\code-do-an\Code_LINQ\linqYeildReturn\bin\Debug\netcoreapp3.1\linqYeildReturn.dll
+D:\ThacSy\Do An\code-do-an\Code_LINQ\linqYeildReturn\bin\Debug\netcoreapp3.1\linqYeildReturn.pdb
+D:\ThacSy\Do An\code-do-an\Code_LINQ\linqYeildReturn\obj\Debug\netcoreapp3.1\linqYeildReturn.csproj.CoreCompileInputs.cache
+D:\ThacSy\Do An\code-do-an\Code_LINQ\linqYeildReturn\obj\Debug\netcoreapp3.1\linqYeildReturn.dll
+D:\ThacSy\Do An\code-do-an\Code_LINQ\linqYeildReturn\obj\Debug\netcoreapp3.1\linqYeildReturn.pdb
+D:\ThacSy\Do An\code-do-an\Code_LINQ\linqYeildReturn\obj\Debug\netcoreapp3.1\linqYeildReturn.genruntimeconfig.cache
